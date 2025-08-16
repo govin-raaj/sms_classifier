@@ -50,5 +50,3 @@ We trained and tested multiple algorithms. Below are the results:
 
 
 ---
-
-## 📂 Project Structure
